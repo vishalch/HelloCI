@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "HelloCI.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/HelloCI.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HelloCI.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloCI.Core/1.0.0": {
+      "type": "project",
+      "path": "../HelloCI.Core/HelloCI.Core.csproj",
+      "msbuildProject": "../HelloCI.Core/HelloCI.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "HelloCI.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Vishal\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\avishal\\projects\\teamcity\\HelloCI\\src\\app\\HelloCI.Web\\HelloCI.Web.csproj",
+      "projectName": "HelloCI.Web",
+      "projectPath": "C:\\avishal\\projects\\teamcity\\HelloCI\\src\\app\\HelloCI.Web\\HelloCI.Web.csproj",
+      "packagesPath": "C:\\Users\\Vishal\\.nuget\\packages\\",
+      "outputPath": "C:\\avishal\\projects\\teamcity\\HelloCI\\src\\app\\HelloCI.Web\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Vishal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\avishal\\projects\\teamcity\\HelloCI\\src\\app\\HelloCI.Core\\HelloCI.Core.csproj": {
+              "projectPath": "C:\\avishal\\projects\\teamcity\\HelloCI\\src\\app\\HelloCI.Core\\HelloCI.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

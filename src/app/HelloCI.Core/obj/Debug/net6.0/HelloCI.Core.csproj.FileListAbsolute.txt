@@ -1,0 +1,12 @@
+C:\avishal\projects\teamcity\HelloCI\src\app\HelloCI.Core\bin\Debug\net6.0\HelloCI.Core.deps.json
+C:\avishal\projects\teamcity\HelloCI\src\app\HelloCI.Core\bin\Debug\net6.0\HelloCI.Core.dll
+C:\avishal\projects\teamcity\HelloCI\src\app\HelloCI.Core\bin\Debug\net6.0\HelloCI.Core.pdb
+C:\avishal\projects\teamcity\HelloCI\src\app\HelloCI.Core\obj\Debug\net6.0\HelloCI.Core.csproj.AssemblyReference.cache
+C:\avishal\projects\teamcity\HelloCI\src\app\HelloCI.Core\obj\Debug\net6.0\HelloCI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\avishal\projects\teamcity\HelloCI\src\app\HelloCI.Core\obj\Debug\net6.0\HelloCI.Core.AssemblyInfoInputs.cache
+C:\avishal\projects\teamcity\HelloCI\src\app\HelloCI.Core\obj\Debug\net6.0\HelloCI.Core.AssemblyInfo.cs
+C:\avishal\projects\teamcity\HelloCI\src\app\HelloCI.Core\obj\Debug\net6.0\HelloCI.Core.csproj.CoreCompileInputs.cache
+C:\avishal\projects\teamcity\HelloCI\src\app\HelloCI.Core\obj\Debug\net6.0\HelloCI.Core.dll
+C:\avishal\projects\teamcity\HelloCI\src\app\HelloCI.Core\obj\Debug\net6.0\refint\HelloCI.Core.dll
+C:\avishal\projects\teamcity\HelloCI\src\app\HelloCI.Core\obj\Debug\net6.0\HelloCI.Core.pdb
+C:\avishal\projects\teamcity\HelloCI\src\app\HelloCI.Core\obj\Debug\net6.0\ref\HelloCI.Core.dll
