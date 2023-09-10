@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HelloCI.Tests/1.0.0": {
+        "dependencies": {
+          "HelloCI.Core": "1.0.0",
+          "HelloCI.Web": "1.0.0"
+        },
+        "runtime": {
+          "HelloCI.Tests.dll": {}
+        }
+      },
+      "HelloCI.Core/1.0.0": {
+        "runtime": {
+          "HelloCI.Core.dll": {}
+        }
+      },
+      "HelloCI.Web/1.0.0": {
+        "dependencies": {
+          "HelloCI.Core": "1.0.0"
+        },
+        "runtime": {
+          "HelloCI.Web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloCI.Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HelloCI.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HelloCI.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
