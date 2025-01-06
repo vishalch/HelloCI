@@ -1,4 +1,4 @@
-06Jan2025-test-commit-1
+06Jan2025-test-commit-2
 
 create a sln in vs with name HelloCI
 add 3 projects to sln (mvc, class library for nunit, class library for core)
